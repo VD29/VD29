@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @VD29
-- 👀 I’m interested in video games and music
+- 👀 I’m a Unity Developer & Sound Designer at ZillionWhales
