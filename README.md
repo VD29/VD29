@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @VD29
-- 👀 I’m a Unity Developer & Sound Designer at ZillionWhales
+- 👀 I’m a Unity & Unreal Developer
